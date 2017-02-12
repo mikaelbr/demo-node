@@ -1,6 +1,6 @@
 {
   "name": "demo-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrap node CLI to give prettier error messages for demo purposes",
   "main": "test.js",
   "bin": {
@@ -9,7 +9,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["pretty error", "error", "node wrapper"],
+  "keywords": [
+    "pretty error",
+    "error",
+    "node wrapper"
+  ],
   "author": "Mikael Brevik <mikaelbre@gmail.com>",
   "license": "ISC",
   "dependencies": {
