@@ -14,9 +14,9 @@ demo-node file.js
 
 ## Without `demo-node`
 
-![Normal Node.js](./normal-node.png)
+![Normal Node.js](https://raw.githubusercontent.com/mikaelbr/demo-node/master/normal-node.png)
 
 
 ## With `demo-node`
 
-![With demo-node](./with-demo-node.png)
+![With demo-node](https://raw.githubusercontent.com/mikaelbr/demo-node/master/with-demo-node.png)
