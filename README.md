@@ -2,6 +2,8 @@
 
 Wrap Node.js CLI to give prettier error output for demos.
 
+__This was developed as a live stream in Norwegian. See video: https://youtu.be/6hts_lGnJfk__
+
 ```
 npm i -g demo-node
 ```
